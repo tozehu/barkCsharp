@@ -1,0 +1,20 @@
+D:\自写程序源码\bark推送\bark\bark\bin\Debug\bark.exe
+D:\自写程序源码\bark推送\bark\bark\bin\Debug\bark.pdb
+D:\自写程序源码\bark推送\bark\bark\obj\Debug\bark.csprojAssemblyReference.cache
+D:\自写程序源码\bark推送\bark\bark\obj\Debug\bark.Form1.resources
+D:\自写程序源码\bark推送\bark\bark\obj\Debug\bark.Properties.Resources.resources
+D:\自写程序源码\bark推送\bark\bark\obj\Debug\bark.csproj.GenerateResource.cache
+D:\自写程序源码\bark推送\bark\bark\obj\Debug\bark.csproj.CoreCompileInputs.cache
+D:\自写程序源码\bark推送\bark\bark\obj\Debug\bark.exe
+D:\自写程序源码\bark推送\bark\bark\obj\Debug\bark.pdb
+D:\自写程序源码\bark推送\bark\bark\bin\Debug\bark.exe.config
+D:\自写程序源码\bark推送 开源\bark\bark\bin\Debug\bark.exe.config
+D:\自写程序源码\bark推送 开源\bark\bark\bin\Debug\bark.exe
+D:\自写程序源码\bark推送 开源\bark\bark\bin\Debug\bark.pdb
+D:\自写程序源码\bark推送 开源\bark\bark\obj\Debug\bark.csprojAssemblyReference.cache
+D:\自写程序源码\bark推送 开源\bark\bark\obj\Debug\bark.Form1.resources
+D:\自写程序源码\bark推送 开源\bark\bark\obj\Debug\bark.Properties.Resources.resources
+D:\自写程序源码\bark推送 开源\bark\bark\obj\Debug\bark.csproj.GenerateResource.cache
+D:\自写程序源码\bark推送 开源\bark\bark\obj\Debug\bark.csproj.CoreCompileInputs.cache
+D:\自写程序源码\bark推送 开源\bark\bark\obj\Debug\bark.exe
+D:\自写程序源码\bark推送 开源\bark\bark\obj\Debug\bark.pdb
